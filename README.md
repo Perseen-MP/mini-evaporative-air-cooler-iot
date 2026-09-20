@@ -195,7 +195,8 @@ Then use:
 
 ```html
 <p align="center">
-  <img src="Images/circuit_diagram.png" alt="Circuit Diagram" width="800">
+  <img src="<img width="837" height="554" alt="circuit_diagram" src="https://github.com/user-attachments/assets/ba1911bc-f2d4-4b7f-8ff6-6d016741fca9" />
+" alt="Circuit Diagram" width="800">
 </p>
 ```
 
@@ -325,7 +326,8 @@ Then use:
 
 ```html
 <p align="center">
-  <img src="Images/blynk_dashboard.jpg" alt="Blynk Dashboard" width="450">
+  <img src="<img width="1920" height="1080" alt="blynk_dashboard" src="https://github.com/user-attachments/assets/e9af653d-0ec9-48bf-af00-31ddc37aeb81" />
+" width="450">
 </p>
 ```
 
@@ -563,10 +565,11 @@ Baud Rate: 115200
 mini-evaporative-air-cooler-iot/
 │
 ├── Arduino_Code/
-│   └── mini_air_cooler.ino
+│   └── code.ino
 │
 ├── Images/
-│   ├── project.jpg
+│   ├── prototype.jpg
+│   ├── prototype 1.png
 │   ├── block_diagram.png
 │   ├── circuit_diagram.png
 │   └── blynk_dashboard.jpg
@@ -708,7 +711,7 @@ The report contains:
 
 <div align="center">
 
-## **Perseen M.P.**
+## **Perseen M.P**
 
 ### B.E. Electrical and Electronics Engineering
 
